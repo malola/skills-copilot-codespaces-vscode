@@ -1,4 +1,4 @@
-// create web server
+// Create web server
 // Create an HTTP server
 const server = http.createServer((req, res) => {
     // Set the response header
